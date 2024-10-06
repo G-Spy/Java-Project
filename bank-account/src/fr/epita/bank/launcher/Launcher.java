@@ -11,8 +11,9 @@ public class Launcher {
 //        sreymouySavingAccount.setBalance(-1500.0);
 //        System.out.println(sreymouySavingAccount.getBalance());
 
+
         //-------------
-        //Practice
+        //Practice Exercise
         //-------------
         // do a scenario where a customer buys some stock action of gold ("GOLD"}
         // with unit price 25 euros from his investment account, initialize with 3045 euros
